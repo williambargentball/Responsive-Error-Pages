@@ -26,13 +26,13 @@
 body {
     margin: 0;
     font-family: "JetBrains Mono", monospace;
-    color: #151515;
+    color: #212529;
     overflow: hidden;
 }
 
 /* Links and Text */
 a { color: #7437d0; text-decoration: underline; }
-a:hover { color: #151515; }
+a:hover { color: #212529; }
 
 .brand {
     position: absolute;
@@ -111,7 +111,7 @@ footer.page-footer .footer .disclamer {
 }
 footer.page-footer .footer .disclamer a {
     font-size: 0.8em;
-    color: #151515;
+    color: #212529;
     text-decoration: none;
 }
 footer.page-footer .footer .disclamer a:hover { color: #7437d0; }
@@ -121,7 +121,7 @@ footer.page-footer .footer .disclamer a:hover { color: #7437d0; }
 
 @media (min-width: 576px) {
     body {
-        background: #f6f6f6;
+        background: #f8f9fa;
     }
     .card {
         top: 45%;
